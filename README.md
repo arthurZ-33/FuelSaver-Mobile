@@ -104,7 +104,7 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
  
 Na tela principal, o usuário insere seu peso (em kg) e altura (em metros), e o app calcula e exibe o IMC.
  
-![Figura 1: Exemplo da tela principal do aplicativo ] (/imgs/)
+![Figura 1: Exemplo da tela principal do aplicativo ](imgs/Captura de tela 2025-10-17 003250.png)
  *Figura 1: Exemplo da tela principal do aplicativo.*
  
 ## 👨‍💻 Desenvolvedores –
