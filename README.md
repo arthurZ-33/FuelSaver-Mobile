@@ -101,8 +101,10 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
 
 1. **Tela Principal**
  
-Na tela principal, o usuário insere seu peso (em kg) e altura (em metros), e o app calcula e exibe o IMC.
- 
+Na tela principal, o usuário insere o consumo médio de gasolina, quantos km serão rodados e o preço da gasolina, o app calcula e exibe o consumo de gasolina e gasto pela viagem.
+
+<img width="301" height="560" alt="Tela principal" src="https://github.com/user-attachments/assets/e79dfc91-c1f9-4a28-8da9-ca1ddc9acfab" />
+
 ![Exemplo da Tela Principal](https://raw.githubusercontent.com/arthur2-33/FuelSaver-Mobile/main/imgs/c1.png)
  *Figura 1: Exemplo da tela principal do aplicativo.*
  
