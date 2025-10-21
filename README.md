@@ -30,7 +30,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 1. Clone este repositório:
 
     ```bash
-    git clone [https://github.com/seuusuario/imc-calculator-app.git](https://github.com/arthurZ-33/app-para-calculo-de-gasolina.git)
+    git clone [https://github.com/arthurZ-33/app-para-calculo-de-gasolina/tree/main)
 
     ```
 
@@ -104,9 +104,9 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
  
 Na tela principal, o usuário insere seu peso (em kg) e altura (em metros), e o app calcula e exibe o IMC.
  
-![Figura 1: Exemplo da tela principal do aplicativo ](imgs/Captura de tela 2025-10-17 003250.png)
+![Figura 1: Exemplo da tela principal do aplicativo ](imgs/c1.png)
  *Figura 1: Exemplo da tela principal do aplicativo.*
  
 ## 👨‍💻 Desenvolvedores –
 
-**Seu Nome** - Desenvolvedor - [GitHub](https://github.com/seuusuario)
+**Arthur Rodrigues** - Desenvolvedor - [GitHub](https://github.com/arthurZ-33)
