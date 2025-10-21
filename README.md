@@ -1,17 +1,16 @@
-# **IMC Calculator App**
+# **FuelSaver Calculator App**
 
-> Um aplicativo Android simples para calcular o Índice de Massa
-Corporal (IMC).
+> Um aplicativo Android simples para calcular o consumo de gasolina e o custo da viagem.
 
 ## 📱 Descrição
 
-O **IMC Calculator App** permite ao usuário calcular seu Índice de Massa Corporal (IMC) com base no peso e altura informados. Ele também exibe uma mensagem indicando se o usuário está abaixo do peso, com peso normal, ou acima do peso.
+O **O App Calcular gasolina permite que o usuário calcule a quantidade de gasolina a ser gasta.
 
 ## 🔧 Funcionalidades
 
-- [x] Entrada de dados (peso e altura)
-- [x] Cálculo do IMC
-- [x] Exibição do resultado com categorias (Abaixo do peso, Peso normal, Sobrepeso, Obesidade)
+- [x] Entrada de dados (Nome do veículo, número da placa. distância a ser percorrida, consumo médio, preço por litro)
+- [x] Cálculo do consumo e do custo da viagem
+- [x] Exibição do resultado exibindo(calculo de consumo e custo de viagem)
 - [x] Interface simples e intuitiva
 - [x]Tema claro e escuro (planejado para futuras versões)
 
@@ -30,7 +29,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 1. Clone este repositório:
 
     ```bash
-    git clone [https://github.com/arthurZ-33/app-para-calculo-de-gasolina/tree/main)
+    git clone https://github.com/arthurZ-33/app-para-calculo-de-gasolina/tree/main
 
     ```
 
@@ -50,12 +49,12 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 
 │   │   │   ├──
-java/com/example/imccalculator
+java/com/example/FuelSaver
 
 
 │   │   │  
 │   ├── MainActivity.java      
-# Atividade principal com cálculo do IMC
+# Atividade principal com cálculo da gasolina e custo
 
 
 │   │   │   ├──
