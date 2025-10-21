@@ -103,7 +103,7 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
  
 Na tela principal, o usuário insere seu peso (em kg) e altura (em metros), e o app calcula e exibe o IMC.
  
-![Figura 1: Exemplo da tela principal do aplicativo ](imgs/c1.png)
+![Figura 1: Exemplo da tela principal do aplicativo ](https://github.com/arthurZ-33/FuelSaver-Mobile/blob/main/imgs/c1.png?raw=true)
  *Figura 1: Exemplo da tela principal do aplicativo.*
  
 ## 👨‍💻 Desenvolvedores –
