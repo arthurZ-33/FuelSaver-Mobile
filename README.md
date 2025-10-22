@@ -38,7 +38,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 ## 📂 Estrutura do Projeto
 
-```bash````
+```bash
 ├── app
 │   ├── src
 │   │   ├── main
@@ -52,7 +52,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 │   │   │           └── colors.xml          # Cores definidas no projeto
 │   └── build.gradle                      # Configuração do Gradle
 └── README.md                             # Este arquivo
-´´´´
+````
 
 
 
