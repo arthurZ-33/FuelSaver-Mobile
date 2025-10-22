@@ -12,7 +12,7 @@ O **O App Calcular gasolina permite que o usuário calcule a quantidade de gasol
 - [x] Cálculo do consumo e do custo da viagem
 - [x] Exibição do resultado exibindo(calculo de consumo e custo de viagem)
 - [x] Interface simples e intuitiva
-- [x]Tema claro e escuro (planejado para futuras versões)
+- []Tema claro e escuro (planejado para futuras versões)
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -29,7 +29,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 1. Clone este repositório:
 
     ```bash
-    git clone https://github.com/arthurZ-33/app-para-calculo-de-gasolina/tree/main
+    git clone https://github.com/arthurZ-33/app-para-calculo-de-gasolina
 
     ```
 
@@ -38,57 +38,23 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 ## 📂 Estrutura do Projeto
 
-```bash
+```bash````
 ├── app
-
-
 │   ├── src
-
-
 │   │   ├── main
+│   │   │   ├── java/com/example/FuelSaver
+│   │   │   │   └── MainActivity.java       # Atividade principal com cálculo da gasolina e custo
+│   │   │   └── res
+│   │   │       ├── layout
+│   │   │       │   └── activity_main.xml   # Layout da tela principal
+│   │   │       └── values
+│   │   │           ├── strings.xml         # Strings usadas no app
+│   │   │           └── colors.xml          # Cores definidas no projeto
+│   └── build.gradle                      # Configuração do Gradle
+└── README.md                             # Este arquivo
+´´´´
 
 
-│   │   │   ├──
-java/com/example/FuelSaver
-
-
-│   │   │  
-│   ├── MainActivity.java      
-# Atividade principal com cálculo da gasolina e custo
-
-
-│   │   │   ├──
-res
-
-
-│   │   │  
-│   ├── layout
-
-
-│   │   │  
-│   │   ├── activity_main.xml   #
-Layout da tela principal
-
-
-│   │   │  
-│   └── values
-
-
-│   │   │  
-│       ├──
-strings.xml         # Strings usadas no
-app
-
-
-│   │   │  
-│       ├── colors.xml          # Cores definidas no projeto
-
-
-│   └── build.gradle                        # Configuração do
-Gradle
-
-
-└── README.md                               # Este arquivo
 
  
 ## 🎨 Design e Prototipagem
