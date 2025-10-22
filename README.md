@@ -103,8 +103,7 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
  
 Na tela principal, o usuário insere o consumo médio de gasolina, quantos km serão rodados e o preço da gasolina, o app calcula e exibe o consumo de gasolina e gasto pela viagem.
 
-![Exemplo da Tela Principal](https://raw.githubusercontent.com/arthur2-33/FuelSaver-Mobile/main/imgs/c1.png)
- *Figura 1: Exemplo da tela principal do aplicativo.*
+![Imagem da tela principal do aplicativo](/imgs/c1.png)
  
 ## 👨‍💻 Desenvolvedores –
 
